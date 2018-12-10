@@ -13,3 +13,4 @@ class Solution:
                 temp = 0
         return re+temp
 #太慢了
+#重新提交了几遍，每次速度都不一样，暂时还没看讨论解法。
